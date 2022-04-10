@@ -50,6 +50,21 @@ class MainActivity : AppCompatActivity() {
                 R.drawable.sis_operasi,
                 "Buku Sistem Operasi",
                 "Berisikan materi tentang sistem operasi"
+            ),
+            Buku(
+                R.drawable.machine,
+                "Buku Machine Learning",
+                "Berisikan materi tentang Machine learning"
+            ),
+            Buku(
+                R.drawable.uiux ,
+                "Buku UI/UX Design",
+                "Berisikan materi tentang Ui/UX design"
+            ),
+            Buku(
+                R.drawable.webprog,
+                "Buku Pemoggraman WEB",
+                "Berisikan materi tentang Pemoggraman WEB"
             )
         )
 
