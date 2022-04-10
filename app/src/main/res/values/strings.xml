@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UTSRecycleView</string>
+    <string name="Buku_name">Buku Name</string>
+    <string name="description">Description</string>
+</resources>
